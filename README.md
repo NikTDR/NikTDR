@@ -4,7 +4,8 @@
 - 📫 Моя почта: flash300@yandex.ru
 - 👨🏽‍💻 Мой Telegram: https://t.me/SmirnovDev
 
- ![NikTDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikTDR&show_icons=true&theme=cobalt&count_private=true)
+ [![NikTDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikTDR)](https://github.com/NikTDR/github-readme-stats)
+
  <!--- --->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikTDR)](https://github.com/NikTDR/github-readme-stats)
 
