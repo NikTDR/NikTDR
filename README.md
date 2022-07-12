@@ -4,10 +4,10 @@
 - 📫 Моя почта: flash300@yandex.ru
 - 👨🏽‍💻 Мой Telegram: https://t.me/SmirnovDev
 
- [![NikTDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikTDR)](https://github.com/NikTDR/github-readme-stats)
-
+ ![NikTDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikTDR&show_icons=true&theme=cobalt&count_private=true)
  <!--- --->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikTDR)](https://github.com/NikTDR/github-readme-stats)
+
 
 <!--
 **NikTDR/NikTDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
