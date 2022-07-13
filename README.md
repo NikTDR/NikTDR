@@ -6,7 +6,7 @@
 
  ![NikTDR's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikTDR&show_icons=true&theme=cobalt&count_private=true)
  <!--- --->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikTDR)](https://github.com/NikTDR/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikTDR&count_private=true)](https://github.com/NikTDR/github-readme-stats)
 
 
 <!--
